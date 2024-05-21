@@ -1,0 +1,37 @@
+Documentation 
+
+-> History of the project - (why) 
+
+-> Survey (Research Papers) 
+
+-> Progress  
+	-> Procedure of the project 
+		-> Dataset 
+		-> ML model 
+		-> Deployment  
+
+	-> Technology Stack 
+		-> ML model 
+			-> Pre Processing steps (Definition) 
+			-> Model  Computation/Compilation(Def)
+			-> Predictions / Inferences (Def)	
+		-> Algorithms used :
+			-> SVM (Def)
+			-> RBF  (Def)	
+			-> ANN (Def)
+		-> Deployment :
+			-> Flask (Def)
+			-> Heroku (Def)
+-> References :
+	//PPT 
+
+-> Conclusion:
+	-> Results 
+	-> Best result among 3 algorithms used.
+	-> Why we got best result. 
+
+-> Contirbutors 
+-> Guide Signature 
+-> Declare Statement( temp) 
+
+// Review 2 PPT - Prahlad 
